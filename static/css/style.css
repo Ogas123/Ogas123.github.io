@@ -1,0 +1,37 @@
+.notbold{
+  font-weight:normal
+}​
+
+.nopadding {
+  padding: 0;
+  margin: 0;
+}
+
+.listicon {
+  
+  height: 7vh;
+}
+
+.listicon-sm {
+  
+  height: 6vh;
+}
+
+.listicon-xs {
+  
+  height: 2vh;
+}
+
+.listicon-s {
+  
+  height: 4vh;
+}
+
+.list-group-item{
+  display: flex;
+  padding: 0px !important;
+}
+
+.sameline{
+  display: inline-block;
+}
